@@ -18,11 +18,6 @@ Here’s a preview of the project:
 
 ![Animal Card Screenshot](fish.png)
 
-> 📌 To make this work:
-> 1. Create an `images/` folder in your repository.
-> 2. Upload your screenshot (e.g., `animal-card.png`) into that folder.
-> 3. The Markdown above will automatically display it.
-
 ---
 
 ## Installation
