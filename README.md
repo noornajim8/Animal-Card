@@ -20,7 +20,4 @@ Here’s a preview of the project:
 
 ---
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/noornajim8/Animal-Card.git
+
